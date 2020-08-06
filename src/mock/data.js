@@ -38,25 +38,25 @@ export const projectsData = [
     url: 'https://bcs-project-2.herokuapp.com/',
     repo: 'https://github.com/rtorres61595/Quest-of-Corona', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project1.jpg',
-    title: 'Quest of Corona',
-    info: 'Fun game me and some friends made to have a laugh during these times',
-    info2:
-      'tehnologies used are JavaScript, Node.JS, Express, Handlebars and MySQL and other frame works for the style',
-    url: 'https://bcs-project-2.herokuapp.com/',
-    repo: 'https://github.com/rtorres61595/Quest-of-Corona', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'project.jpg',
+  //   title: '',
+  //   info: '',
+  //   info2: '',
+  //   url: '',
+  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  // },
+  // {
+  //   id: nanoid(),
+  //   img: 'project1.jpg',
+  //   title: 'Quest of Corona',
+  //   info: 'Fun game me and some friends made to have a laugh during these times',
+  //   info2:
+  //     'tehnologies used are JavaScript, Node.JS, Express, Handlebars and MySQL and other frame works for the style',
+  //   url: 'https://bcs-project-2.herokuapp.com/',
+  //   repo: 'https://github.com/rtorres61595/Quest-of-Corona', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
