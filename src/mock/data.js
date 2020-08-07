@@ -19,7 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'me.jpg',
   paragraphOne: 'I am a Full Stack Developer with knowledge in technologies and skills like',
-  paragraphTwo: 'React, Java-Script, mysql, mongodb, NodeJS, Git, Express, Handlebars, Jquery',
+  paragraphTwo:
+    'Object-oriented programming, React, Java-Script, mysql, mongodb, NodeJS, Git, Express, Handlebars, Jquery',
   paragraphThree:
     'Sales of Real Estate and Cars, Business Strategy,Team Work, Time Management, Employee Training, Communication, Self-Management, Team Management and Reach dead-lines',
   resume:
