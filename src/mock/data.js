@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Robert/Developer', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: 'Welcome to my website', // e.g: Welcome to my website
+  title: 'Robert/Developer',
+  lang: '',
+  description: 'Welcome to my website',
 };
 
 // HERO DATA
@@ -24,7 +24,7 @@ export const aboutData = {
   paragraphThree:
     'Sales of Real Estate and Cars, Business Strategy,Team Work, Time Management, Employee Training, Communication, Self-Management, Team Management and Reach dead-lines',
   resume:
-    'https://docs.google.com/document/d/1gV0z_CJtrB9yKbXY_NAtZXaQ4egG8Sa_ixu4yoqHsVw/edit?usp=sharing', // if no resume, the button will not show up
+    'https://docs.google.com/document/d/1gV0z_CJtrB9yKbXY_NAtZXaQ4egG8Sa_ixu4yoqHsVw/edit?usp=sharing',
 };
 
 // PROJECTS DATA
@@ -37,7 +37,7 @@ export const projectsData = [
     info2:
       'tehnologies used are JavaScript, Node.JS, Express, Handlebars and MySQL and other frame works for the style',
     url: 'https://bcs-project-2.herokuapp.com/',
-    repo: 'https://github.com/rtorres61595/Quest-of-Corona', // if no repo, the button will not show up
+    repo: 'https://github.com/rtorres61595/Quest-of-Corona',
   },
   // {
   //   id: nanoid(),
@@ -46,7 +46,7 @@ export const projectsData = [
   //   info: '',
   //   info2: '',
   //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  //   repo: 'https://github.com/cobidev/react-simplefolio',
   // },
   // {
   //   id: nanoid(),
@@ -56,7 +56,7 @@ export const projectsData = [
   //   info2:
   //     'tehnologies used are JavaScript, Node.JS, Express, Handlebars and MySQL and other frame works for the style',
   //   url: 'https://bcs-project-2.herokuapp.com/',
-  //   repo: 'https://github.com/rtorres61595/Quest-of-Corona', // if no repo, the button will not show up
+  //   repo: 'https://github.com/rtorres61595/Quest-of-Corona',
   // },
 ];
 
@@ -90,5 +90,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false,
 };
