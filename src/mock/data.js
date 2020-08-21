@@ -18,11 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'me.jpg',
-  paragraphOne: 'I am a Full Stack Developer with knowledge in technologies and skills like',
+  paragraphOne:
+    'Full Stack Developer certified from University of Central Florida, The Complete Web Developer in 2020: Zero to Mastery, as well as other Developer courses with knowledge in technologies and skills like.',
   paragraphTwo:
-    'Object-oriented programming, React, Java-Script, mysql, mongodb, NodeJS, Git, Express, Handlebars, Jquery',
+    'Object-oriented programming, React, Java-Script, mysql, mongodb, NodeJS, Git, Express, Handlebars, Jquery, ES6.',
   paragraphThree:
-    'Sales of Real Estate and Cars, Business Strategy,Team Work, Time Management, Employee Training, Communication, Self-Management, Team Management and Reach dead-lines',
+    'Sales of Real Estate and Cars, Business Strategy, Team Work, Time Management, Employee Training, Communication, Self-Management, Team Management and reach deadlines.',
   resume:
     'https://docs.google.com/document/d/1gV0z_CJtrB9yKbXY_NAtZXaQ4egG8Sa_ixu4yoqHsVw/edit?usp=sharing',
 };
@@ -33,9 +34,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'logo1.jpg',
     title: 'Quest of Corona',
-    info: 'Fun game me and some friends made to have a laugh during these times',
+    info: 'A RPG style of game going back to the 8bit era.',
     info2:
-      'tehnologies used are JavaScript, Node.JS, Express, Handlebars and MySQL and other frame works for the style',
+      'Tehnologies used are JavaScript, Node.JS, Express, Handlebars and MySQL and other frame works for the style',
     url: 'https://bcs-project-2.herokuapp.com/',
     repo: 'https://github.com/rtorres61595/Quest-of-Corona',
   },
@@ -43,7 +44,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'robot-army.png',
     title: 'Robot Army',
-    info: 'A React App that filters the names of Robot employees through the search bar on demand',
+    info: 'A React App that filters the names of Robot employees through the search bar on demand.',
     info2: 'Tech used is React JS and React libraries, CSS and HTML',
     url: 'https://eager-nightingale-3e821e.netlify.app/',
     repo: 'https://github.com/rtorres61595/Robot-Army',
@@ -62,7 +63,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: `let's work together`,
+  cta: `Let's work together`,
   btn: `rtorres61595@gmail.com`,
   email: 'rtorres61595@gmail.com',
 };
