@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Object-oriented programming, React, Java-Script, mysql, mongodb, NodeJS, Git, Express, Handlebars, Jquery, ES6.',
   paragraphThree:
-    'Sales of Real Estate and Cars, Business Strategy, Team Work, Time Management, Employee Training, Communication, Self-Management, Team Management and reach deadlines.',
+    'Sales of Real Estate and Cars, Business Strategy, Team Work, Time Management, Employee Training, Communication, Self-Management, Team Management, Reach Deadlines, Customer Relations, Security.',
   resume:
     'https://docs.google.com/document/d/1gV0z_CJtrB9yKbXY_NAtZXaQ4egG8Sa_ixu4yoqHsVw/edit?usp=sharing',
 };
